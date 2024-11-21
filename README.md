@@ -2,6 +2,8 @@
 
 This repository contains the code and analysis for a supervised learning project investigating drivers of customer satisfaction in the airline industry. Using a dataset of 130,000 observations, the project applies logistic regression, tree-based methods, and k-Nearest Neighbors (k-NN) to predict customer satisfaction and identify its key determinants.
 
+![image](images/customer_satisfaction.jpg)
+
 ## Project Structure
 
 - **`MatteoCiarrocchi_SupervisedLearning_Code.R`**: R script implementing the supervised learning algorithms and analysis.
